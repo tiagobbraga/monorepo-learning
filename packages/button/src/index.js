@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const Button = styled.button`
   background-color: red;
@@ -8,7 +8,7 @@ const Button = styled.button`
   font-size: 1rem;
   font-weight: 300;
   padding: 9px 36px;
-  border: none
+  border: none;
 `;
 
 export default Button;

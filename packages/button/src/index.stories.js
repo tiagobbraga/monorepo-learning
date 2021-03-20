@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
-import Button from '.';
+import Button from ".";
 
 export default {
   component: Button,
-  title: 'Design System/Button'
+  title: "Design System/Button"
 };
 
-export const primary = () => <Button>{'Button'}</Button>;
+export const primary = () => <Button>Button</Button>;
